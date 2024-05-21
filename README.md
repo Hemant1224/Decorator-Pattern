@@ -6,8 +6,11 @@ Here’s a simple analogy to help you understand:
 
 Imagine You Have a Plain Coffee
 Plain Coffee: You start with a simple cup of coffee. This is your original object.
+
 Adding Milk: You decide to add milk to your coffee. Now, your coffee has an additional feature (milk), but it's still fundamentally coffee.
+
 Adding Sugar: Next, you add sugar. Again, it’s still coffee, but now it has both milk and sugar.
+
 Adding Whipped Cream: Finally, you add whipped cream. Your coffee has become even fancier.
 
 In this analogy:
